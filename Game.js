@@ -1,4 +1,3 @@
-console.log('necum')
-console.log('necum')
+console.log('piskvorky')
 
 
